@@ -1,0 +1,13 @@
+﻿  display.cpp
+  rrtMaker.cpp
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(86,54): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(86,49): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(88,54): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(88,49): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(90,54): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(90,49): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(92,54): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\rrt\rrt\rrtMaker.cpp(92,49): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+  rrtTester.cpp
+  正在生成代码...
+  rrt.vcxproj -> C:\Users\darkchii\Documents\source\repos\rrt\x64\Debug\rrt.exe
